@@ -13,30 +13,30 @@
 
 ## <img src="./Pictures/atomo-ilustracion.png" width="30" align="center"> Skills
 
-- **Softwares EDA/CAD**:
+➤ **Softwares EDA/CAD**:
     
-    ![Altium Designer](https://img.shields.io/badge/altium_designer-%23A5915F.svg?style=for-the-badge&logo=altiumdesigner&logoColor=white)
-    ![KiCad](https://img.shields.io/badge/kicad-2707f5.svg?style=for-the-badge&logo=kicad&logoColor=white)
-    ![Multisim](https://img.shields.io/badge/-Multisim-57B685?style=for-the-badge&logo=multisim&logoColor=white)
-    ![Proteus](https://img.shields.io/badge/-Proteus-0357ff?style=for-the-badge&logo=proteus&logoColor=white)
-    ![SolidWorks](https://img.shields.io/badge/-SolidWorks-FF0000?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
+   ![Altium Designer](https://img.shields.io/badge/altium_designer-%23A5915F.svg?style=for-the-badge&logo=altiumdesigner&logoColor=white)
+   ![KiCad](https://img.shields.io/badge/kicad-2707f5.svg?style=for-the-badge&logo=kicad&logoColor=white)
+   ![Multisim](https://img.shields.io/badge/-Multisim-57B685?style=for-the-badge&logo=multisim&logoColor=white)
+   ![Proteus](https://img.shields.io/badge/-Proteus-0357ff?style=for-the-badge&logo=proteus&logoColor=white)
+   ![SolidWorks](https://img.shields.io/badge/-SolidWorks-FF0000?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
 
- - **Microcontrollers**:
+➤ **Microcontrollers**:
    
    ![Arduino](https://img.shields.io/badge/Arduino%20-%2300979D.svg?style=for-the-badge&logo=Arduino&logoColor=white)
    ![Raspberry Pi Pico](https://img.shields.io/badge/-Raspberry_Pi_Pico-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
    ![ESP32](https://img.shields.io/badge/ESP32-E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white)
    ![Teensy 4.1](https://img.shields.io/badge/-Teensy_4.1-E53525?style=for-the-badge&logo=sparkfun&logoColor=white)
 
-- **Languages**:
+➤ **Languages**:
     
-    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=yellow)
-    ![MicroPython](https://img.shields.io/badge/micropython-%232B2728.svg?style=for-the-badge&logo=micropython&logoColor=white)
+   ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+   ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=yellow)
+   ![MicroPython](https://img.shields.io/badge/micropython-%232B2728.svg?style=for-the-badge&logo=micropython&logoColor=white)
 
- - **IDEs/Editors**:
+➤ **IDEs/Editors**:
 
-    ![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-%2300979D.svg?style=for-the-badge&logo=Arduino&logoColor=white)
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+   ![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-%2300979D.svg?style=for-the-badge&logo=Arduino&logoColor=white)
+   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
    
    
