@@ -28,7 +28,7 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="./Pictures/atomo-ilustracion.png" width="30" align="center"> Skills
+## <img src="./Pictures/atomo-ilustracion.png" width="35" align="center"> Skills
 
 ➤ **Softwares EDA/CAD**:
     
