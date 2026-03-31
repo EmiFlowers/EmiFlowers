@@ -16,10 +16,10 @@
 - **Softwares EDA/CAD**:
     
     ![Altium Designer](https://img.shields.io/badge/altium_designer-%23A5915F.svg?style=for-the-badge&logo=altiumdesigner&logoColor=white)
-    ![KiCad](https://img.shields.io/badge/kicad-%23314CB0.svg?style=for-the-badge&logo=kicad&logoColor=white)
+    ![KiCad](https://img.shields.io/badge/kicad-2707f5.svg?style=for-the-badge&logo=kicad&logoColor=white)
     ![Multisim](https://img.shields.io/badge/-Multisim-57B685?style=for-the-badge&logo=multisim&logoColor=white)
-    ![Proteus](https://img.shields.io/badge/-Proteus-1C79B3?style=for-the-badge&logo=proteus&logoColor=white)
-    ![SolidWorks](https://img.shields.io/badge/-Dassault Systèmes-005386?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
+    ![Proteus](https://img.shields.io/badge/-Proteus-0357ff?style=for-the-badge&logo=proteus&logoColor=white)
+    ![SolidWorks](https://img.shields.io/badge/-SolidWorks-FF0000?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
 
  - **Microcontrollers**:
    
