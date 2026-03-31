@@ -63,7 +63,7 @@
 <br>
  <div align=left>
   
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EmiFlowers&theme=github_dark)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EmiFlowers&theme=github_dark)
   
  </div>
 
