@@ -11,6 +11,23 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+  ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+
+<picture> <img align="right" src="https://user-images.githubusercontent.com/78701779/118412678-f2486300-b6b8-11eb-9178-cd75230ad8a5.gif" width = 350px></picture>
+
+<br><br>
+
+- 🏫: I am a `Electronics Engineering Student` at [Faculty of Engineering](https://ingenieria.uaemex.mx/) at [Universidad Autonoma del Estado de Mexico (UAEMex)](https://www.uaemex.mx/).
+- 🚀: `Avionics leader` of the Aerospace Society of the Engineering Faculty [SAFI](https://www.instagram.com/safi_uaemex/)
+- 💻: Junior PCB Designer using `Altium Designer` and `KiCad`
+- :electron:: Participate in the Mexican Meeting of Experimental Rocketry [ENMICE](https://enmice.mx/) 2025 
+- :student: I’m currently learning `Embedded Systems` and `Classic Control Systems`.
+
+<br>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## <img src="./Pictures/atomo-ilustracion.png" width="30" align="center"> Skills
 
 ➤ **Softwares EDA/CAD**:
@@ -38,5 +55,29 @@
 
    ![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-%2300979D.svg?style=for-the-badge&logo=Arduino&logoColor=white)
    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-   
-   
+
+  <p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+  ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<br>
+ <div align=left>
+  
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EmiFlowers&theme=github_dark)
+  
+ </div>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+## Follow me 🤝
+
+[![Instagram](https://img.shields.io/badge/emi_f10wers-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/emi_f10wers/)
+[![Facebook](https://img.shields.io/badge/Emi_Flowers-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/emi.flowers.640185/?locale=es_LA)
+[![TikTok](https://img.shields.io/badge/emiflowers-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@_emiflowers_?lang=es)
+[![Discord](https://img.shields.io/badge/emi_flowers-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/emi_flowers)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/emilio-flores-garduño-555a13160)
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
