@@ -77,7 +77,7 @@
 [![Facebook](https://img.shields.io/badge/Emi_Flowers-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/emi.flowers.640185/?locale=es_LA)
 [![TikTok](https://img.shields.io/badge/emiflowers-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@_emiflowers_?lang=es)
 [![Discord](https://img.shields.io/badge/emi_flowers-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/emi_flowers)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/emilio-flores-garduño-555a13160)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emilio-flores-gardu%C3%B1o-555a13160/)
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
